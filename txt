@@ -2,3 +2,6 @@ first line base
 second line for commit
 third line in featur
  4th line
+this is new
+this is ultra new
+this is for merge check with push
