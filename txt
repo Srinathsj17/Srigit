@@ -1,3 +1,4 @@
 first line base
 second line for commit
-third line in feature
+third line in featur
+ 4th line
